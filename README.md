@@ -1,0 +1,6 @@
+# PYTHON-
+PYTHON INFORMATION 
+Python (programming language) Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. ... Python is dynamically typed and garbage-collected.
+Wide range of courses in Software Testing, JAVA Development & Web Development. 100% Guaranteed Placement to our Trained Students. Vast content , less charges. Call Now! Experience Of 18+ Years. Live Projects. Industry Experts. 100% Placement Assista
+
+“Having exposure to CFD, I learned how mathematical models are used to solve analysis problems. I wanted to know the coding behind them and then do it myself. But it was implemented in C++, which has a hard learning curve. Recently learned about data science & since it was done using Python which is comparatively easier, I got interested in data science. Its scope for implementing improvements, optimizations & new practices based upon data analysis interested me. I can also go into machine learning & take advantage of the large data sets available. And also due to growing opportunities in the field
